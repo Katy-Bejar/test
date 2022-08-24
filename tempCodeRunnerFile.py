@@ -1,0 +1,1 @@
+cv2.face.EigenFaceRecognizer_create()
